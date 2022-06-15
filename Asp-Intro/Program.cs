@@ -14,6 +14,8 @@ namespace Asp_Intro
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            //video at 19:13
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
